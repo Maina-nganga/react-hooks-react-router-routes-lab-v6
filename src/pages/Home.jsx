@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import Home from "../components/"
 
 function Home() {
   return (
